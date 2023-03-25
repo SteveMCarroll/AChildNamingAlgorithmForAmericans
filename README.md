@@ -3,18 +3,18 @@ This repo contains a short document describing a methodology for naming your Ame
 I believe there are at least some useful best practices to share that will make your naming experience smoother and more intentional.
 Hopefully it's also an amusing read.
 
-# What? Who the hell are you to tell me how to name my kid?
+## What? Who the hell are you to tell me how to name my kid?
 Whoah, whoah!  Hold your horses.   You can do whatever you want!  But my wife and I named two kids with this plan, it worked out pretty well, and solved some important problems that you might also care about. Let's face it. Most people only do this a few times in their life and so by definition most names are given by relatively inexperienced parents. The world will be a better place if we share what we've learned so I took an afternoon and wrote this up.
 
-# Under-appreciated Problems with Existing Names
+## Under-appreciated Problems with Existing Names
 
-## The Emma Problem
+### The Emma Problem
 We picked our kids names in the mid and late 2000s. At that point in history, it was unavoidable in American culture to look away from what I call "the Emma Problem".  In Season 8 (2002) of the TV show Friends, Ross and Rachel gave birth to a child named Emma. The name immediately shot to the top of the [naming rankings](https://www.ssa.gov/OACT/babynames/).  Within a few years, every kindergarten in America was full of Emmas. This was not a subtle change and almost 1% of all girls have been named Emma ever since with Emma being in the top 3 names for girls to this very day (2023).  One of the primary goals of a name is to distinguish your child from other children and every Emma under the age of 21 in America must append a last initial in almost any school or work context.  If you are the type of person who gets naming advice from a GitHub repo, you've probably come across the so-called [Birthday Paradox](https://en.wikipedia.org/wiki/Birthday_problem).  As a reminder, there is a greater than 50% chance that a class with 23 people in it will have at least one shared birthday.  1/365 is equal to 0.2%.  The number of students named Emma in an average school population is AT LEAST double that based on government data.
 
-## Rhymes with Dumb
+### Rhymes with Dumb
 My wife grew up as a child of immigrants with a name from her family's culture (Thai). On the one hand, that name is beautiful and a representation of her heritage. No arguments on that from this white guy and parent of biracial children, I promise. On the other hand, my wife swore on the day that we found out she was pregnant that she would not subject any child of hers to the neverending and daily inconvenience that is her name. What's wrong with her name? Nothing at all! But as I explain in extreme detail in my other repo about [how to pronounce names for English speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers), people just don't know what to make of it. People pronounce it correctly about 10% of the time, and the other 90% is split across a bunch of variants and it's just a mess. It's only three letters long, J-U-M.  As her brother used to say when he was a mischevious young boy, "it rhymes with Dumb". My wife also had the unique experience of growing up with her brother who also has a beautiful name from her family's culture. His name is "Jon". The differences in experience growing up here was obvious. Both of our kids have Thai middle names. We applied the selection process to those too, and I'll add that into the appendix.
 
-## Steve Carr**e**ll Ruined my Name
+### Steve Carr**e**ll Ruined my Name
 Up until the year 2005, my name was mildly annoying. Even though I don't think I've ever met someone with the last name Carroll spelled any other way, I think people spell it correctly when they hear it pronounced less than 50% of the time.  I got into the habit of introducing myself to hotel clerks as Steve Carroll, 2 Rs, 2Ls.  This was totally fine, and a minor annoyance at best.  In 2005, The Office debuted and the film The 40 Year Old Virgin debuted.  Suddenly, there were even more letters in my name that were up for dispute. Now, I'm not going to change my last name because of this, but you, future parent, have the ability to pick a first name with a clean **bidirectional** mapping from sound to spelling.  Use this power wisely.
 
 # Algorithm
