@@ -28,7 +28,7 @@ Up until the year 2005, my name was mildly annoying. Even though I don't think I
 7. **The Reading of the Names:**  Hold the baby up like Baby Simba in the Lion King. Read each name on the filtered list while gazing on the child for fit.
 8. **Culling:** Now, each parent can veto any name for any reason.  Scratch them out.  Each parent should eliminate at least one name in each round.
 9. **Iterate:** Have you landed on a consensus choice after vetos?   If not, return to the **Reading of the (remaining) Names** and repeat the elimination of the names until a name emerges victorious.  
-10. **Break Deadlock:** What if two names are left, and the parents are deadlocked?  Well, you have many more parenting decisions to reach consensus on and this is probably a good low stakes place to practice that since both of the remaining names are going to be pretty good after all that filtering we did. In a pinch, you can tag men on Twitter (@ScareAll) and I'll break the tie.
+10. **Break Deadlock:** What if two names are left, and the parents are deadlocked?  Well, you have many more parenting decisions to reach consensus on and this is probably a good low stakes place to practice that since both of the remaining names are going to be pretty good after all that filtering we did. In a pinch, you can tag me on Twitter (@ScareAll) and I'll break the tie.
 
 # FAQs
 
